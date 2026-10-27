@@ -128,4 +128,3 @@ curl -i localhost:8001/weather/Delhi                      # on EC2: 504 timeout
 ```
 
 Screenshots to capture: `docker push`, `docker ps` on EC2, `/docs` via public IP, `/weather/Delhi`, the POST response with `report_id`, the GET of that report, and the 404 / 422 / 504 responses.
-# Industrial_Training
